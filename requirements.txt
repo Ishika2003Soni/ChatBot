@@ -1,0 +1,6 @@
+streamlit
+groq
+SpeechRecognition
+scipy
+numpy
+python-dotenv
