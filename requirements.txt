@@ -1,5 +1,0 @@
-streamlit
-groq
-SpeechRecognition
-streamlit-mic-recorder
-pydub
